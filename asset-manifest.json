@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/A-website-with-React-js/static/css/main.b69c3166.chunk.css",
+    "main.js": "/A-website-with-React-js/static/js/main.737c81c1.chunk.js",
+    "main.js.map": "/A-website-with-React-js/static/js/main.737c81c1.chunk.js.map",
+    "runtime-main.js": "/A-website-with-React-js/static/js/runtime-main.eef06c04.js",
+    "runtime-main.js.map": "/A-website-with-React-js/static/js/runtime-main.eef06c04.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/A-website-with-React-js/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.720d9248.chunk.js": "/A-website-with-React-js/static/js/2.720d9248.chunk.js",
+    "static/js/2.720d9248.chunk.js.map": "/A-website-with-React-js/static/js/2.720d9248.chunk.js.map",
+    "index.html": "/A-website-with-React-js/index.html",
+    "precache-manifest.fc8618ddadd6718d5c79bba0cba6b305.js": "/A-website-with-React-js/precache-manifest.fc8618ddadd6718d5c79bba0cba6b305.js",
+    "service-worker.js": "/A-website-with-React-js/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/A-website-with-React-js/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.b69c3166.chunk.css.map": "/A-website-with-React-js/static/css/main.b69c3166.chunk.css.map",
+    "static/js/2.720d9248.chunk.js.LICENSE.txt": "/A-website-with-React-js/static/js/2.720d9248.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/A-website-with-React-js/static/media/about.45914280.png",
+    "static/media/android.jpg": "/A-website-with-React-js/static/media/android.5431c7bf.jpg",
+    "static/media/app.jpg": "/A-website-with-React-js/static/media/app.36e4531e.jpg",
+    "static/media/digital.jpg": "/A-website-with-React-js/static/media/digital.90412cf3.jpg",
+    "static/media/graphic.jpg": "/A-website-with-React-js/static/media/graphic.7a3c88c1.jpg",
+    "static/media/ho.jpg": "/A-website-with-React-js/static/media/ho.6a833068.jpg",
+    "static/media/home.png": "/A-website-with-React-js/static/media/home.3a7cc891.png",
+    "static/media/web.jpg": "/A-website-with-React-js/static/media/web.13fda38c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef06c04.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.720d9248.chunk.js",
+    "static/css/main.b69c3166.chunk.css",
+    "static/js/main.737c81c1.chunk.js"
+  ]
+}
